@@ -105,7 +105,7 @@ O módulo também me fez pensar na utilização de automação e IA como formas 
 
 ## Conclusão
 
-No final, a prncipal mudança de pensamento foi:
+No final, a principal mudança de pensamento foi:
 
 > **Não quero pensar apenas em encontrar problemas. Quero entender os riscos, gerar informações relevantes e contribuir para que o time consiga entregar um produto com mais qualidade.**
 
